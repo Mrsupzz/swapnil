@@ -1,0 +1,10 @@
+.main-content{
+    height: 100vh;
+}
+@media(max-width: 600px){
+  article  {background-color: blueviolet;}
+}
+@media(min-width: 600px){
+    article{ font-size: 2rem;}
+}
+  
